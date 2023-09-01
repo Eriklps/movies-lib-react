@@ -37,6 +37,10 @@
 
 
 @media(max-width: 450px) {
+  #navbar {
+    padding: 1rem;
+  }
+  
   #navbar h2 a{
     font-size: 1.2rem;
   }
