@@ -2,7 +2,7 @@
 
 Movies Lib React
 
-React project, consuming a <a href="https://developer.themoviedb.org/docs">TMDB API</a>, created with Vite.
+React project, consuming a <a href="https://developer.themoviedb.org/docs">TMDB API</a>.
 
 I'm worked on this project to learn about React and APIs. 📚
 
